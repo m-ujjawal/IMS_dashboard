@@ -1,0 +1,28 @@
+.create-target-machine-select{
+    border: 2px solid #c0c0c0;
+    position: relative;
+    text-align-last: left;
+    font-family: Arial;    
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    padding-right: 100px;
+    left:100px;
+    top:140px;
+    width: 200px;
+    height:40px;
+  }
+
+.showComponents{
+position: relative;
+  width: 600px;
+  height:300px;
+  border: 2px solid #c0c0c0;
+  border-radius: 0em 0em 1em 1em;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-bottom: 20px;
+  top: 24px;  
+  left:900px
+}
+

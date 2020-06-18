@@ -1,4 +1,4 @@
-import React,{Component} from 'react'
+import React from 'react'
 
 const heading={
     fontStyle: 'oblique',
@@ -12,7 +12,7 @@ function Header(){
     return(
         <div>
             <h1 style={heading}>
-                ISM-Dashboard
+                IMS-Dashboard
             </h1>
         </div>
     )

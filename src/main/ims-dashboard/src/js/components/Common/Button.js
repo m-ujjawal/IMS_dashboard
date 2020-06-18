@@ -6,7 +6,7 @@ class Button extends Component {
         return (
             <div>
                 <ButtonToggle 
-                    color={this.props.type == 'primary' ? 'primary' : 'secondary'}>
+                    color={this.props.type === 'primary' ? 'primary' : 'secondary'}>
                     {this.props.title}
                 </ButtonToggle>{' '}
             </div>

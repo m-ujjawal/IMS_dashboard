@@ -1,0 +1,13 @@
+export const ISPM_PORT="38223";
+export const IDS_PORT="38219";
+export const IACS_PORT="38224";
+export const OACS_PORT="38232";
+export const IDIM_PORT ="38246";
+export const ISM_PORT="38227";
+export const ISPM_HEALTHCHECH_URL=`/ispm/healthcheckservice/v1/healthcheck`;
+export const IDS_HEALTHCHECH_URL=`/ids/healthcheckservice/v1/healthcheck`;
+export const IACS_HEALTHCHECH_URL=`/iacs/healthcheckservice/v1/healthcheck`;
+export const OACS_HEALTHCHECH_URL=`/oacs/healthcheckservice/v1/healthcheck`;
+export const IDIM_HEALTHCHECH_URL=`/idim/healthcheckservice/v1/healthcheck`;
+export const ISM_HEALTHCHECH_URL=`/ism/healthcheckservice/v1/healthcheck`;
+export const COLON=':';
